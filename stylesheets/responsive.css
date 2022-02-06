@@ -1,0 +1,28 @@
+@media only screen and (min-width: 1224px) {
+  /* Desktop */
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  /* iPad */
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+  /* iPad Portrait */
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+  /* iPad Landscape */
+}
+
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait) {
+  /* iPhone Portrait */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: landscape) {
+  /* iPhone Landscape */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait) {
+  /* iPhone Portrait */
+  
