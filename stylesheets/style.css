@@ -1,4 +1,3 @@
 @import "reset.css";/* сбрoc настроек браузера */
-@import "layout.css"; /* макет  */
 @import "content.css"; /* контент / содержимое  */
 @import "responsive.css";/* адаптивность */
