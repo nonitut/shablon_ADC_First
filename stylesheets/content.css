@@ -11,3 +11,7 @@ html, body{
   font-style: normal;
   font-weight: normal;
 }
+
+p{
+    font-family: 'Formular', normal;
+}
