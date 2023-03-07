@@ -4,3 +4,10 @@
 html, body{
     height: 100%;
 }
+
+@font-face {
+  font-family: "Formular";
+  src: url("../fonts/Formular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
