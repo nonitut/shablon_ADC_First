@@ -1,28 +1,50 @@
 @media only screen and (min-width: 1224px) {
   /* Desktop */
+   Сюда писать код*
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
   /* iPad */
+   Сюда писать код*
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
   /* iPad Portrait */
+   Сюда писать код*
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
   /* iPad Landscape */
+   Сюда писать код*
 }
 
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait) {
   /* iPhone Portrait */
+   Сюда писать код*
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: landscape) {
   /* iPhone Landscape */
+   Сюда писать код*
 }
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: portrait) {
   /* iPhone Portrait */
+   Сюда писать код*
+}
   
+
+// второй вариант записи 
+
+@media all and (min-width: 1260px) {
+   Сюда писать код*
+}
+
+@media all  and (min-width: 768px) and (max-width:1259px) {
+   Сюда писать код*
+}
+
+@media all and (max-width: 767px){
+   Сюда писать код*
+}
