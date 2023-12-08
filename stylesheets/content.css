@@ -14,5 +14,6 @@ html, body{
 
 p{
     font-family: 'CarlaSansLight';
-    text-stroke: 2px hotpink;
+    text-stroke: 2px;
+    stroke-color: hotpink;
 }
