@@ -1,17 +1,11 @@
-*{
-    box-sizing: border-box;
-}
-html, body{
-    height: 100%;
-}
+*{ box-sizing: border-box;}
+html, body{ height: 100%;}
 
 @font-face {
-  font-family: "CarlaSansLight";
-  src: url("../fonts/CarlaSansLight.ttf") format("truetype");
-  font-style: Light;
-  font-weight: Light;
+font-family: "CarlaSansLight";
+src: url("../fonts/CarlaSansLight.ttf") format("truetype");
+font-style: Light;
+font-weight: Light;
 }
 
-p{
-    font-family: 'CarlaSansLight';
-}
+p{ font-family: 'CarlaSansLight'; }
